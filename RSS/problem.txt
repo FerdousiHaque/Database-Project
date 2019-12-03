@@ -1,0 +1,34 @@
+what is utype in addtrainview??
+
+while( $row = mysqli_fetch_array($result,MYSQLI_BOTH))
+er vitorer kaj??
+
+echo "<script type='text/javascript'>";  in addtrainview??? in profile,login,userdetails....???
+
+train Delete hoe na???
+
+profile er vitor arrary er kaj??? ki vabe kortese ???
+
+update user er 10 no line???
+
+loginwork er vitor 16 no line er if er kaj??
+
+viewcart er kaj ki ........er kaj ki user/admin ???
+
+userhome er 150 no line $date er kaj ???
+            163 no line mysqli_parse er kaj ???
+            165 no line global er kaj ???
+            159,175 no line e $flag er kaj ???
+            198,221 no line foreach er kaj ???
+            Buy Tickets er colum er kaj ki ???
+
+showbill.php buji nai ???
+
+cart.php 7,8 no line e kemne ki ???
+         9   no line e loop ta buji na ???
+         43  no line e $cart er array ???
+
+booking.php 4 no line ???
+           15 no line ???
+
+
